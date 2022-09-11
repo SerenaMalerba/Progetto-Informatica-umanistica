@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <!DOCTYPE TEI SYSTEM "progetto_informatica_umanistica.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+			<fileDesc>
+				<titleStmt>
+					<title>
+						Edizione digitale delle pagine 95v e 96r del Vat. lat. 3793
+					</title>
+					<author>
+						<surname>Malerba</surname>
+						<forename>Serena</forename>
+					</author>
+					
+					<principal>
+						<persName>
+							<forename>Sciolette</forename>
+							<surname>Flavia</surname>
+						</persName>
+					</principal>
+					
+					<respStmt>
+						<resp>Progetto di edizione digitale svolto da</resp>
+						
+						<persName>Serena Malerba</persName>
+						
+						</respStmt>
+				</titleStmt>
+	
+				<publicationStmt>
+					<publisher>Sapienza University of Rome</publisher>
+					
+					<pubPlace>Roma</pubPlace>
+					<date>2022</date>
+					
+				</publicationStmt>
+				
+				
+				<notesStmt>
+					<note>Progetto svolto nell'ambito del corso "Informatica Umanistica"</note>
+						
+				
+				
+				</notesStmt>
+				<sourceDesc>
+					
+<msDesc xml:id="V">
+						<msIdentifier>
+							<settlement>Stato Vaticano</settlement>
+							<repository>Biblioteca Apostolica Vaticana</repository>
+							<idno type="shelfmark">3793</idno>
+						</msIdentifier>
+						   
+<msContents>
+							   <summary>contiene rime di vari autori del duecento</summary>
+							   <msItem xml:id="carte_edizione_digitale_95v_96r">
+				                  <locus  from="95v" to="96r">carte 95v-96r</locus>
+				                  <textLang>italiano</textLang>
+				                  <msItem xml:id="rima295">
+				                     <locus>95v</locus>
+				                        <title>Crudele affanno e perta</title>
+				                        <author><persName ref="https://www.mirabileweb.it/author-rom/neri-de-visdomini-m-pq-1282-author/LIO_229994">Neri de Visdomini</persName>
+				                           </author>
+				                           <rubric>cclxxxxv Neri</rubric>
+				                           <incipit>Crudele affanno e perta</incipit>
+				                           <explicit>per amore solamente</explicit>
+				                           <listBibl>
+				                               <bibl xml:id="edizione_Neri_de_Visdomini">
+                            <title>I poeti della scuola siciliana</title>
+                            <edition>edizione promossa dal Centro di studi filologici e linguistici siciliani</edition>
+                            <publisher>Mondatori</publisher>
+                            <address><placeName>Milano</placeName></address>
+                            <date>2008</date>
+                            <biblScope unit="libro">terzo</biblScope>
+                            <biblScope unit="page" from="45" to="95">45-95</biblScope>
+                            <idno type="permalink OPAC SBN">http://id.sbn.it/bid/UFE0862778</idno>
+                             </bibl>
+                             <bibl xml:id="edizione_diplomatica_vat_lat_3793">
+                              <title>Il libro de varie romanze volgare, cod. Vat. 3793</title>
+                              <edition>a cura di Francesco Egidi, con la collaborazione di Giovanni Battista Festa, Salvatore Satta e Genuino Ciccone</edition>
+                              <publisher>Società Filologica Romana</publisher>
+                              <address><placeName>Roma</placeName></address>
+                              <date>1908</date>
+                              </bibl>
+				                              </listBibl>
+				                          
+                             </msItem>
+                             
+                             <msItem xml:id="rima296">
+                                                         <locus from="95v" to="96r">95v-96r</locus>
+				                         <title>Donna senza pietanza</title>
+				                          <author><persName ref="https://www.mirabileweb.it/author-rom/lapuccio-belfradelli-sec-xiii-author/LIO_229938">Lapuccio Belfradelli</persName>
+				                          </author>
+				                          <rubric>cclxxxxvi lapuccio Belfradelli</rubric>
+				                          <incipit>Donna senza pietanza</incipit>
+				                          <explicit>mestiere mi fosse avrene</explicit>
+				                          <listBibl>
+				                             <bibl>
+		            <title>Concordanze della Lingua Poetica Italiana delle Origini (CLPIO)</title>
+                            <publisher>Ricciardi</publisher>
+                            <address><placeName>Milano-Napoli</placeName></address>
+                            <date>1992</date>
+                            <biblScope unit="libro">primo</biblScope>
+                            <idno type="permalink OPAC SBN">http://id.sbn.it/bid/MIL0140163</idno>
+                             </bibl>
+                              <bibl>
+                              <ref target="edizione_diplomatica_vat_lat_3793"><title>Le antiche rime volgari, secondo la lezione del codice Vaticano 3793</title>
+                              </ref>
+                              </bibl>
+                             
+				                             </listBibl>
+				                          
+                             </msItem>
+                             
+                             <msItem xml:id="rima297">
+                                                            <locus>96r</locus>
+                                                            <title>La gran nobilitate</title>
+                                                            <author><persName ref="https://www.mirabileweb.it/author-rom/polo-zoppo-1268-1273-(o-1288)--author/LIO_230060">Polo zoppo</persName>
+				                           </author>
+				                           <rubric>cclxxxxvii Ser paolo zoppo daBologna</rubric>
+				                           <incipit>La gran nobilitate</incipit>
+				                           <explicit>che crede quando sogna essere gran veritate</explicit>
+				                           <listBibl>
+                                                            <bibl>
+		             <title>Concordanze della Lingua Poetica Italiana delle Origini (CLPIO)</title>
+                            <publisher>Ricciardi</publisher>
+                            <address><placeName>Milano-Napoli</placeName></address>
+                            <date>1992</date>
+                            <biblScope unit="libro">primo</biblScope>
+                            <idno type="permalink OPAC SBN">http://id.sbn.it/bid/MIL0140163</idno>
+				                              </bibl>
+				                               <bibl>
+                              <ref target="edizione_diplomatica_vat_lat_3793"><title>Le antiche rime volgari, secondo la lezione del codice Vaticano 3793</title>
+                                 </ref>
+                              </bibl>
+				                              </listBibl>
+
+				                              </msItem>
+						  </msItem>
+</msContents>
+								
+<physDesc>
+								   <objectDesc form="codex">
+								      
+								      <supportDesc>
+								         <support><material>pergamena</material></support>
+								         <extent>I + 8 + I' + 180 carte
+								         <dimensions scope="all" type="leaves" unit="mm">
+								            <height>27</height>
+								            <width>34,5</width>
+								            </dimensions>
+								            </extent>
+								            <collation><formula>1-15:8, 18-19:8, 20:6, 21-23:8, 24: 6, 25:10</formula></collation>
+								            </supportDesc>
+								            
+								            <layoutDesc>
+								               
+								               <layout columns="1">
+								                  <catchwords> i fascicoli 1-13 hanno numerazione espressa in lettere, <locus>al centro del margine inferiore del recto di precisi fogli</locus>, i fascicoli seguenti, eccetto il 24 e 25 non numerati e 16 e 17 soppressi, sono numerati in cifre romane <locus>in posizione identica</locus>
+								                  </catchwords>
+								                  </layout>
+								                   
+								                  <layout writtenLines="31 40">
+								                     <p>
+								                       nelle carte
+								                        <rs ref="carte_edizione_digitale_95v_96r"><locus from="95v" to="96r">95v-96r</locus></rs> 
+								                        vi sono rispettivamente 40 e 31 righe di scrittura
+								                        </p>
+								                  </layout>
+								                  
+								               </layoutDesc>
+								               
+								             </objectDesc>
+								               
+								               <handDesc>
+								         <summary>varie mani di tipo protomercantesco e cancelleresco</summary>
+								         <handNote xml:id="handA" scope="major">
+								            <p>scrive in protomercantesca le carte da 1r-98v (fino al testo cccv incluso e indice dei capoversi corrispondenti)</p>
+								            <p>scrive integralmente le carte 
+								               <rs ref="carte_edizione_digitale_95v_96r"><locus from="95v" to="96r">95v-96r</locus></rs>
+								               </p>
+								         </handNote>
+								         <handNote xml:id="hand_postillatore">
+								            <p>interviene nelle carte 
+								               <rs ref="carte_edizione_digitale_95v_96r"><locus from="95v" to="96r">95v-96r</locus></rs>
+								               ritoccando e ricalcando nei punti dove la scrittura precedente si era quasi totalmente cancellata
+								               </p>
+								               </handNote>
+								         </handDesc>
+								            
+								         <decoDesc>
+								            <summary>solo iniziali ornate in inchiostro nero su 2-4 righe</summary>
+								            <decoNote type="initial">agli incipit delle canzoni 
+								               <rs ref="rima296">Crudele affanno e perta</rs>, 
+								               <rs ref="rima297">Donna senza pietanza</rs>, 
+								               <rs ref="rima297">La gran nobilitate</rs> nelle carte 
+								               <locus from="95v" to="96r">95v-96r</locus> iniziali in nero di 
+								               <measure>2 righe</measure>; per ogni inizio di strofa iniziale in nero ingrandita di 
+								               <measure>1 rigo</measure>
+								             </decoNote>
+								            </decoDesc>
+								             
+								             <additions> 
+								                <p>postille e ritocchi coeve all'allestimento del codice</p>
+								                  <p>postille di 
+								                   <rs ref="https://it.wikipedia.org/wiki/Angelo_Colocci"><persName>Angelo Colocci</persName></rs></p>
+								                   <p>poche postille recenziori</p>
+								                   <p> un segno di paragrafo accanto a ciascuna rima ai due margini sinistri delle carte 
+								                <rs ref="carte_edizione_digitale_95v_96r"><locus from="95r" to="96v">95v-96v</locus></rs>
+								                </p>
+								             </additions>
+									
+							
+</physDesc>
+	    
+<history>
+						<origin>
+						   <p><origPlace>Firenze</origPlace>
+						   copiato in <origDate>Firenze</origDate></p>
+						   </origin>
+</history>
+
+<additional>
+   
+              <adminInfo>
+                <recordHist>
+                  <source>
+                    <p>tutti i dati sul manoscritto sono tratti dalla
+                       <bibl><ref target="bibliografia_vat_lat_3793">bibliografia citata</ref></bibl></p>
+                   </source>
+                 </recordHist>
+              </adminInfo>
+	     
+	      <listBibl xml:id="bibliografia_vat_lat_3793" source="https://www.mirabileweb.it/manuscript-rom/citt%C3%A0-del-vaticano-biblioteca-apostolica-vaticana--manuscript/LIO_16040">
+								                     <bibl>
+								                        <author>Armando Petrucci</author>
+								                        <title>Le mani e le scritture del canzoniere Vaticano</title> in
+								                        <ref target="edizione_fotografica">I canzonieri della lirica italiana delle Origini</ref>
+								                        <biblScope unit="volume">IV</biblScope>
+								                        <note>a cura di Lino Leonardi</note>
+								                        <address><placeName>Tavarnuzze, Impruneta</placeName></address>
+								                        <publisher>SISMEL-Edizioni del Galluzzo</publisher>
+								                        <date>2001</date>
+								                        </bibl>
+								                        <bibl>
+								                           <author>Domenico De Robertis</author>
+								                           <title>Censimento dei manoscritti di rime di Dante (V)</title> in
+								                           <title>Studi Danteschi</title>
+								                           <biblScope unit="numero">XLI</biblScope>
+								                           <date>1964</date>
+								                           <biblScope unit="page">113-115</biblScope>
+								                        </bibl>
+								                        <bibl>
+								                           <author>Grion Liederhandschrift</author>
+								                           <title>Die Vaticanische Liederhandschrift Nr. 3793</title>in
+								                           <title>Romanische Studien</title>
+                                                                                            <biblScope unit="numero">I</biblScope>
+                                                                                            <date>1871</date>
+                                                                                            <biblScope unit="page">61-113</biblScope>
+								                           </bibl>
+								                           <bibl>
+								                              <author>Alessandro D'Ancona; Domenico Camparetti</author>
+								                              <title>Le antiche rime volgari, secondo la lezione del codice Vaticano 3793</title>
+								                              <publisher>Romagnoli</publisher>
+								                              <address><placeName>Bologna</placeName></address>
+								                              <date>1875-1888</date>
+								                              </bibl>
+								                              <bibl>
+								                                 <ref target="edizione_diplomatica_vat_lat_3793">
+								                                    <title>Le antiche rime volgari, secondo la lezione del codice Vaticano 3793</title>
+								                                    </ref>
+								                                 </bibl>
+								                                 <bibl>
+								                                    <author>Claudio Giunta</author>
+								                                    <title>Un'ipotesi sulla morfologia del Canzoniere Vaticano lat. 3793</title>in
+								                                    <title>Studi di filologia italiana</title>
+								                                    <date>1995</date>
+								                                    <biblScope unit="numero">LIII</biblScope>
+								                                    <biblScope unit="page">23-54</biblScope>
+								                                 </bibl>
+								                                 <bibl><author>Dante Alighieri</author>
+								                                 <title>Rime</title>
+								                                 <note>a cura di Domenico De Robertis</note>
+								                                 <address><placeName>Firenze</placeName></address>
+								                                 <publisher>Le Lettere</publisher>
+								                                 <date>2002</date>
+								                                 </bibl>
+								                                  <bibl xml:id="edizione_fotografica">
+								                                   <title>I canzonieri della lirica italiana delle Origini</title>
+								                                   <note>Riproduzione fotografica, a cura di Lino Leonardi</note>
+								                                 </bibl>				
+								                                 <bibl>
+								                                    <author>Roberto Antonelli</author>
+								                                    <title>Struttura materiale e disegno storiografico del canzoniere Vaticano</title> in 
+								                                    <rs ref="edizione_fotografica">I canzonieri della lirica italiana delle Origini</rs>
+								                                    <biblScope unit="page">3-23</biblScope>
+								                                    </bibl>
+								                                    <bibl>
+								                                       <author>Marco Palma</author>
+								                                       <title>Osservazioni sull'aspetto materiale del canzoniere Vaticano</title> in
+								                                       <rs ref="edizione_fotografica">I canzonieri della lirica italiana delle Origini</rs>
+								                                       <biblScope unit="page">43-55</biblScope>
+								                                       </bibl>
+								                                       <bibl>
+								                                          <author>Par Larson</author>
+								                                          <title>appunti sulla lingua del canzoniere Vaticano</title> in
+								                                          <rs ref="edizione_fotografica">I canzonieri della lirica italiana delle Origini</rs>
+								                                          <biblScope unit="page">57-103</biblScope>
+								                                          </bibl>
+								                                           <bibl>
+								                                              <author>Ruggieri Apugliese</author>
+								                                              <title>Rime</title>
+								                                              <note>a cura di Francesca Sanguineti</note>
+								                                              <address><placeName>Roma</placeName></address>
+								                                              <publisher>Salerno Editrice</publisher>
+								                                              <date>2013</date>
+								                                              <biblScope unit="page">106</biblScope>
+								                                              </bibl>
+								                                              <bibl>
+								                                                 <author>Tommaso di Faenza</author>
+								                                                 <title>Rime</title>
+								                                                 <note>ed. critica con commento a cura di Fabio Sangiovanni</note>
+								                                                 <address><placeName>Ravenna</placeName></address>
+								                                                 <publisher>Longo</publisher>
+								                                                 <date>2016</date>
+								                                              </bibl>
+								                                              <bibl>
+								                              <title>Dante e il suo tempo nelle biblioteche fiorentine</title>
+								                              <note>a cura di Gabriella Albanese, Sandro Bertelli, Sonia Gentili, Giorgio Inglese, Paolo Pontari</note>
+								                              <address><placeName>Firenze</placeName></address>
+								                              <publisher>Mandragora</publisher>
+								                              <date>2021</date>
+								                              <biblScope unit="volume">I</biblScope>
+								                              <biblScope unit="page">204-5</biblScope>
+								                                              </bibl>
+	                                                                                 </listBibl>
+	     
+                                                                            </additional>
+						   
+					</msDesc>
+					
+				</sourceDesc>
+				
+				
+			</fileDesc>
+			
+			
+			<encodingDesc>
+				<projectDesc>
+					<p>Edizione digitale delle carte 95r e 96v del codice vat. lat. 3793</p>
+				</projectDesc>
+				<charDecl>
+				   <glyph xml:id="chiocciola">
+				      <desc>simbolo che segnala il passaggio dalla fronte alla sirma</desc>
+				      </glyph>
+				      </charDecl>
+				      <variantEncoding method="parallel-segmentation" location="internal"/>
+			</encodingDesc>
+			<profileDesc>
+			
+				<langUsage>
+					<language ident="it">italiano</language>
+				</langUsage>
+				
+			</profileDesc>
+		</teiHeader>
+		
+	<facsimile>
+		<surfaceGrp xml:id="carte_95v_96r">
+			<surface xml:id="carta_95v" ulx="0" uly="0" lrx="396" lry="624">
+				<graphic url="image_95v.jpg"/>
+				<zone xml:id="zona_rima_295" start="testo_rima_295" ulx="34" uly="41" lrx="370" lry="396">
+				   <graphic url="zona_rima_295.jpg"/>
+				   </zone>
+				   <zone xml:id="zona_rima_296_1parte" start="testo_rima_296_1parte" ulx="46" uly="401" lrx="363" lry="534">
+				      <graphic url="zona_rima_296_1parte.jpg"/>
+				      </zone>
+			</surface>
+			<surface xml:id="carta_96r" ulx="0" uly="0" lrx="401" lry="624">
+			   <graphic url="image_96r.jpg"/>
+			   <zone xml:id="zona_rima_296_2parte" start="testo_rima_296_2parte" ulx="40" uly="52" lrx="334" lry="269">
+			      <graphic url="zona_rima_296_2parte.jpg"/>
+			      </zone>
+			      <zone xml:id="zona_rima297" start="testo_rima_297" ulx="33" uly="266" lrx="333" lry="432">
+			         <graphic url="zona_rima_297.jpg"/>
+			         </zone>
+			   </surface>
+		</surfaceGrp>
+	</facsimile>
+	
+	
+	<text>
+	   
+	   <group>
+	      
+	      <text source="edizione_diplomatica_vat_lat_3793">
+	         <body>
+		   <pb facs="carta_95v"/>
+		   <div type="rima" facs="zona_rima_295" xml:id="testo_rima_295">
+		   <head><hi rend="cerchiato">cclxxxxv Neri <gap reason="cancelled"/><supplied source="edizione_fotografica">di Firenze</supplied></hi></head>
+		   <p>
+		      <metamark function="paragrafatura" target="rima_295" place="left_margin">f</metamark><lb/>Crudele affan<ex>n</ex>o e p<ex>er</ex>tta <pc unit="verso">.</pc> calomeo core giunto <pc>.</pc> catutto inomsolo punto <pc>.</pc> cio chegia lun
+		      <lb break="no"/>giamente avea aquistato <pc>.</pc> diro incanzone ap<ex>er</ex>tta <pc>.</pc> comora nesono p<ex>er</ex>dente <pc>.</pc> erima
+		      <lb break="no"/>so alneiente <pc>.</pc> delagioia edelbene ovio sono stato<g ref="chiocciola">@</g> Edora me p<ex>ro</ex>longhato <pc>.</pc> ondio sospi
+		      <lb break="no"/>ro elamento <pc>.</pc> lasso taldolglia sento <pc>.</pc> chemi comsuma amortte sostenendo vita <pc>.</pc> aideo cru
+		      <lb break="no"/>dele pecato <pc>.</pc> p<ex>er</ex>chema atale condotto <pc>.</pc> chesono rimaso rotto piu chenave intempesta la
+		      <lb/>mia vita <pc>.</pc>
+		      </p>
+		      <p>
+		        <lb/>Dipianti edisospiri <pc>.</pc> egiamai norissino <pc>.</pc> sino rio indimino <pc>.</pc> lagioia cavere solea fodiportto <pc>.</pc>
+		         <lb/>egia sanza martiri <pc>.</pc> dinotte nedigiorno <pc>.</pc> nomporia fare sogiorno <pc>.</pc> ma crudele fuoco esia
+		         <lb/>ma nelcorportto<g ref="chiocciola">@</g> Esono senza comfortto <pc>.</pc> atale sembianza evita <pc>.</pc> piaciesse adio fallita <pc>.</pc> mi
+		         <lb/>fosse anzi stasgione delmio morire . capoi chio vivo mortto . tale vita mai nullomo . nonudi
+		         <lb/>dire p<ex>er</ex>nomo <pc>.</pc> portasse eciome purconvene gradire <pc>.</pc>
+		         </p>
+		      <p>
+		      <lb/>O<add place="interlineare">a</add>poi chenonmi vale <pc>.</pc> casse macolga mortte <pc>.</pc> epurimpena fortte <pc>.</pc> conviene chio viva ordu
+		      <lb break="no"/>mque chesaragio <pc>.</pc> comfortero ilmimale <pc>.</pc> corimembrando ilbene <pc>.</pc> chelamia bona spene <pc>.</pc>
+		      <lb/>madata congrande gioia delmio servagio<g ref="chiocciola">@</g> cosi credo scapragio <pc>.</pc> essollenare lo foco <pc>.</pc> che
+		      <lb/>marde apoco apoco <pc>.</pc> cioe amore chema insua sengnoria <pc>.</pc> lassome chenonagio <pc>.</pc> natura di
+		      <lb/>fenicie forsse songne radicie <pc>.</pc> ardesse rinovando natura muteria <pc>.</pc>
+		      </p>
+		      <p>
+		         <lb/>Prendere nedia peccato <pc>.</pc> a ciaschuno chelontende <pc>.</pc> esalchuno miriprende <pc>.</pc> noncredo
+		         <lb/>chegia faccia <unclear reason="cancelled">camore</unclear> sia <pc>.</pc> chionono sispietato <pc>.</pc> nemico necrudele <pc>.</pc> chepiu dolze cheme
+		         <lb break="no"/><retrace><handShift new="hand_postillatore"/>lenoncreda <unclear reason="cancelled">divenuto</unclear></retrace><handShift new="handA"/> verme sia<g ref="chiocciola">@</g> Vinciendolo cortesia <pc>.</pc> convertu dipietate <pc>.</pc> piu chedi
+		         <lb/>crudaltate <retrace><handShift new="hand_postillatore"/><unclear>veggendo</unclear></retrace><handShift new="handA"/> ilmale chio portto nelcore mio <pc>.</pc> cavisome chesia <pc>.</pc> fonte delglianimali <pc>.</pc>
+		         <lb/>lasso venturo tali codisperato memedesimo edio <pc>.</pc>
+		         </p>
+		         <p>
+		            <lb/>Sio vivo disperato <pc>.</pc> none gia meravilglia <pc>.</pc> camore mipurimpilglia <pc>.</pc> indare tormento <pc>.</pc>
+		            <lb/>mai no<ex>n</ex>risinando <pc>.</pc> bencredo colusato <pc>.</pc> delcierbio ciertamente <pc>.</pc> chelaove lagiente <pc>.</pc> grida
+		            <lb/>core aloco eva sperando<g ref="chiocciola">@</g> agioco essere chiamato <pc>.</pc> dicio singan<ex>n</ex>a emore <pc>.</pc> simile io p<ex>er</ex>amore <pc>.</pc>
+		            <lb/>credo morire poi sono alsuo richiamo <pc>.</pc> sedio nomsono aiutato <pc>.</pc> soldalapiu amorosa <pc>.</pc> sovraon
+		            <lb break="no"/>gnaltra gioiosa <pc>.</pc> chegiamai altro no<ex>n</ex>disio nebramo <pc>.</pc>
+		            </p>
+		            <p>
+		               <lb/>Kio nonvalglio neiente <pc>.</pc> sanza voi avenente <pc>.</pc> mavita dolorosa <pc>.</pc> siche giamai nomposa <pc>.</pc> sosten
+		               <lb break="no"/>gno epene tante <pc>.</pc> credo suleofante <pc>.</pc> codo chepurdunosso <pc>.</pc> selavesse adosso <pc>.</pc> sifrangierebe
+		               <lb/>tutto <pc>.</pc> atale sonio condotto <pc>.</pc> p<ex>er</ex>amore solamente <pc>.</pc>
+		               </p>
+		               </div>
+		               
+		          <div type="rima" facs="zona_rima_296_1parte" xml:id="testo_rima_296_1parte">
+		             <head><hi rend="cerchiato">cclccccvi lapuccio belfradelli</hi></head>
+		             <p>
+		                <metamark function="paragrafatura" target="rima_296" place="left_margin">f</metamark><lb/>Donna senza pietanza <pc>.</pc> poi divo na morai <pc>.</pc> lungiamente porttai <pc>.</pc> lomio amore im
+		                <lb/>privanza <pc>.</pc> Chenonefe semblanza <pc>.</pc> tanto mene cielai <pc>.</pc> mapoi indismisuranża <pc>.</pc> da
+		                <lb break="no"/>more piu sormontai <pc>.</pc> alquanto nemostrai <pc>.</pc> p<ex>er</ex>ischiancire pesanza <pc>.</pc> cheveniva <pc>.</pc> abon
+		                <lb break="no"/>danza <pc>.</pc> merze vidomandai<g ref="chiocciola">@</g> Edallora vitrovai <pc>.</pc> disidolze manera <pc>.</pc> chegioa compiuta
+		                <lb/>entera <pc>.</pc> credea avere forfallanza <pc>.</pc> mapoi viriprovai <pc>.</pc> travavi asai piu fera <pc>.</pc> chedol
+		                <lb break="no"/>ze <pc>.</pc> alamprimera <pc>.</pc> piena didisdengnanza <pc>.</pc>
+		                </p>
+		                <ab>
+		                   <milestone unit="strofa" spanTo="fine_strofa"/>
+		                   <lb/>Don<ex>n</ex>a lodisdengnare <pc>.</pc> chedime fate tanto <pc>.</pc> piaciere videgia alquanto <pc>.</pc> delacasgione mo
+		                   <lb break="no"/>strare <pc>.</pc> sio sono stato imfallare <pc>.</pc> epoi midate schianto <pc>.</pc> esenvervoi pecare <pc>.</pc> nono colppa
+		                   <lb/>lo planto <pc>.</pc> chenelcore agio manto <pc>.</pc> p<ex>er</ex> voi me ingiengnare <pc>.</pc> don<ex>n</ex>a merze tornare <pc>.</pc> fatel
+		                   </ab>
+		                   </div>
+		                   
+		                   <pb facs="carta_96r"/>
+		                   <div type="rima" facs="zona_rima_296_2parte" xml:id="testo_rima_296_2parte">
+		                      <ab>
+		                         <lb/>mi indolze canto<g ref="chiocciola">@</g> <pc>.</pc> Chenonde essere afranto <pc>.</pc> leale servo ubidente <pc>.</pc> sanza fallire neiente <pc>.</pc> cio
+		                      <lb/>me aviso epare <pc>.</pc> chedispresgiato vanto <pc>.</pc> nedato imfralagiente <pc>.</pc> chi grava suo servente <pc>.</pc>
+		                      <lb/>for fallimento fare <pc>.</pc><anchor xml:id="fine_strofa"/>
+		                      </ab>
+		                    <p>
+		                       <lb/>Don<ex>n</ex>a p<ex>er</ex>intendenza <pc>.</pc> sovente odo fallire <pc>.</pc> nonde don<ex>n</ex>a serire <pc>.</pc> giamai dico<ex>n</ex>venenza <pc>.</pc> p<ex>er</ex>che saria
+		                       <lb/>p<ex>er</ex>denza <pc>.</pc> dinoranza nodrire <pc>.</pc> pero la p<ex>ro</ex>vedenza <pc>.</pc> degia ciaschuno gradire <pc>.</pc> difare fermo ilsuo
+		                       <lb/>dire <pc>.</pc> secondo mia parvenza <pc>.</pc> cheguarda altrui dintenza <pc>.</pc> dondecreda mesdire<g ref="chiocciola">@</g> <pc>.</pc> Epero mecierti
+		                       <lb break="no"/>re <pc>.</pc> pemsare  a<rs xml:id="Galeotto_pers_1" type="persona " ref="https://it.wikipedia.org/wiki/Galeotto_(personaggio)"><persName>galeotto</persName></rs> <pc>.</pc> dicio ca<rs xml:id="Lancillotto_pers_2" type="persona" ref="https://it.wikipedia.org/wiki/Lancillotto"><persName>la<ex>n</ex>calotto</persName></rs> <pc>.</pc> p<ex>ro</ex>mise imsua volglienza <pc>.</pc> chenovolle mentire <pc>.</pc> poi
+		                       <lb/>chebe dato il<subst><del instant="true">m</del><add>b</add></subst>otto <pc>.</pc> ad<rs xml:id="Artu_pers_3" type="persona" ref="https://it.wikipedia.org/wiki/Re_Art%C3%B9"><persName>artu re</persName></rs> dumotto <pc>.</pc> lisidiede imservenza <pc>.</pc>
+		                       </p>
+		                      <p>
+		                         <lb/>Don<ex>n</ex>a neldire meo <pc>.</pc> merze fede pongnate <pc>.</pc> elmio prego intendiate <pc>.</pc> chegiusto fare locreo
+		                         <lb/>cosi piaciesse adeo <pc>.</pc> divoi dare umiltate <pc>.</pc> prego vi solo chereo <pc>.</pc> nonvisia netardiate <pc>.</pc> dida
+		                         <lb break="no"/>rmi libertate <pc>.</pc> delagioia cavere deo <pc>.</pc> laquale mimp<ex>ro</ex>meteo <pc>.</pc> lavostra maestate<g ref="chiocciola">@</g> <pc>.</pc> Evolglio
+		                         <lb/>chesacciate <pc>.</pc> don<ex>n</ex>a cheltardare <pc>.</pc> mamesso intale penare <pc>.</pc> chemortte none reo <pc>.</pc> chesono
+		                         <lb/>intempestate <pc>.</pc> piufera chedimare <pc>.</pc> nomposso argomentare <pc>.</pc> p<ex>er</ex>loperire veo <pc>.</pc>
+		                         </p>
+		                         <p>
+		                            <lb/>Donna poi miconvene <pc>.</pc> perire novoglio chesia <pc>.</pc> nullomo chedimedia <pc>.</pc> vilmente mortto ene <pc>.</pc>
+		                            <lb/>cheno argomento bene <pc>.</pc> che scampato saria <pc>.</pc> setosto nonmivene <pc>.</pc> davoi comfortto mia <pc>.</pc> no<ex>n</ex>
+		                            <lb/>tarderagio dia <pc>.</pc> paleseragio chene <pc>.</pc> lomale inche mitene <pc>.</pc> lavostra sengnoria<g ref="chiocciola">@</g> <pc>.</pc> Siche sal
+		                            <lb break="no"/>chunomo fia <pc>.</pc> chelidolglia delmale <pc>.</pc> chio damore mortale <pc>.</pc> chesaccalemie pene <pc>.</pc> cosi forsse po
+		                            <lb break="no"/>ria <pc>.</pc> trovare pietanza intale <pc>.</pc> chemedicina quale <pc>.</pc> mestiere mifosse avrene <pc>.</pc>
+		                            </p>
+		                            </div>
+		                            
+		                          <div type="rima" facs="zona_rima_297" xml:id="testo_rima_297">
+		                             <head><hi rend="cerchiato">cclxxxxvii ss<ex>er</ex> paolo zoppo dabolongna</hi></head>
+		                             <p>
+		                                <metamark function="paragrafatura" target="rima_297" place="left_margin">f</metamark><lb/>Lagran nobilitate <pc>.</pc> chenvoi don<ex>n</ex>a otrovata <pc>.</pc> mifforza ongni fiata <pc>.</pc> editrovare donami
+		                                <lb/>ardimento <pc>.</pc> pero conumiltate <pc>.</pc> nova canzone trovata <pc>.</pc> p<ex>er</ex> voi presgiata <pc>.</pc> sovraongni al
+		                                <lb break="no"/>tra dimelglioramento<g ref="chiocciola">@</g> Evolgliola camtare efare cantare altrui <pc>.</pc> gientile don<ex>n</ex>a p<ex>er</ex> voi sico
+		                                <lb break="no"/>me ausgliello chep<ex>er</ex>lagran verdura <pc>.</pc> chesidilletta indolzi soni chepiacie <pc>.</pc></p>
+		                                <p>
+		                                   <lb/>Io canto emi comfortto <pc>.</pc> sperando bene avere <pc>.</pc> comomo cagrande avere <pc>.</pc> checampa dipe
+		                                   <lb break="no"/>rilglioso loco <pc>.</pc> edore giunto aportto contutto suo volere <pc>.</pc> pemsando chelnociere <pc>.</pc> litorneria
+		                                   <lb/>ingran sollazo egioco<g ref="chiocciola">@</g> cosi meste avenuta <pc>.</pc> ame chesono stato <pc>.</pc> inuno mare tempestato <pc>.</pc>
+		                                   <lb/>orsono aportto egittato paroma <pc>.</pc> conancone chenomso mai lasciare <pc>.</pc></p>
+		                                   <p>
+		                                      <lb/>Madon<ex>n</ex>a poi vipiacie <pc>.</pc> chio dica ap<ex>er</ex>tamente <pc>.</pc> lomio core elamente <pc>.</pc> dimorano convoi ongni
+		                                      <lb/>fiate <pc>.</pc> lifino amore veracie <pc>.</pc> allui sono ubidente <pc>.</pc> mafa davoi presente <pc>.</pc> chio vitengna di
+		                                      <lb break="no"/>stretta edabraccata<g ref="chiocciola">@</g> benmipare cio chio dica <pc>.</pc> ma non chelvero sia <pc>.</pc> chio nonvolglio dire bu
+		                                      <lb break="no"/>sgia <pc>.</pc> maffaccio como falfantino <pc>.</pc> checrede quando songna essere gran veritate <pc>.</pc></p>
+		                                      </div>
+		                                      
+		   </body>
+		   
+	         </text>
+	         <text>
+	            <body>
+	               <head>Donna senza pietanza di Lapuccio Belfradelli</head>
+	               <div>
+	                  <lg n="1">
+	                     
+<l n="1">Donna senza pietanza,</l>	
+<l n="2">poi di voi ‘namorai,</l>	
+<l n="3">lungiamente portai</l>
+<l n="4">lo mio amore in privanza,</l>
+<l n="5">che no ne fe’ semblanza</l>
+<l n="6">tanto me ne celai;</l>
+<l n="7">ma poi in dismisuranza</l>
+<l n="8"><app>
+   <lem>d'amor</lem>
+   <rdg wit="V">damore</rdg></app> più sormontai</l>
+<l n="9">alquanto ne mostrai;</l>
+<l n="10">per <app>
+   <lem>ischiancir</lem>
+   <rdg>ischiancire</rdg></app> pesanza</l>
+<l n="11">che veniva <app>
+   <lem>a abondanza</lem>
+   <rdg>abondanza</rdg></app></l>
+<l n="12">merzé vi domandai;</l>
+<l n="13">ed <app>
+   <lem>allor</lem>
+   <rdg>allora</rdg></app> vi trovai</l>
+<l n="14">di sì dolze manera,</l>
+<l n="15">che gioa compiuta e ‘ntera</l>
+<l n="16">credea <app>
+   <lem>avere</lem>
+   <rdg>aver</rdg></app> fòr fallanza;</l>
+<l n="17">ma poi vi riprovai,</l>
+<l n="18"><app>
+   <lem>trova’ vi</lem>
+   <rdg>travavi</rdg></app> asai più fera</l>
+<l n="19">che dolze ala ‘mprimera,</l>
+<l n="20">piena di disdegnanza.</l>
+
+	                     </lg>
+	                     <lg n="2">
+	                        
+<l n="21">Donna, lo disdegnare</l>
+<l n="22">che di me fate tanto,</l>
+<l n="23"><app>
+   <lem>piacer</lem>
+   <rdg>piaciere</rdg></app> vi degia alquanto</l>
+<l n="24">dela <app>
+   <lem>casgion</lem>
+   <rdg>casgione</rdg></app> mostrare,</l>
+<l n="25">s’io <app>
+   <lem>son</lem>
+   <rdg>sono</rdg></app> stato in fallare,</l>
+<l n="26">e poi mi date schianto.</l>
+<l n="27">E se ‘nver’ voi pecare</l>
+<l n="28">non ò colpa, lo planto</l>
+<l n="29">che nel core agio manto</l>
+<l n="30">per voi me ingiegnare,</l>
+<l n="31">donna, merze, tornare</l>
+<l n="32">fatelmi in dolze canto;</l>
+<l n="33">che non dé essere afranto</l>
+<l n="34">leale servo ubidente</l>
+<l n="35">sanza <app>
+   <lem>fallir</lem>
+   <rdg>fallire</rdg></app> neiente,</l>
+<l n="36">ciò m’è aviso e pare</l>
+<l n="37">ché dispregiato vanto</l>
+<l n="38">n’è dato infra la giente</l>
+<l n="39">chi grava suo servente</l>
+<l n="40">for fallimento fare.</l>
+
+	                        </lg>
+	                        <lg n="3">
+	                           
+<l n="41">Donna, per intendenza</l>
+<l n="42">sovente odo fallire;</l>
+<l n="43">non dè donna <app>
+   <lem>e ser ire</lem>
+   <rdg><add place="interlineare">ne</add>serire</rdg></app></l>
+<l n="44">giamai di convenenza</l>
+<l n="45">perché faria perdenza</l>
+<l n="46">di ‘noranza nodrire,</l>
+<l n="47">però la provedenza</l>
+<l n="48">degia <app>
+   <lem>ciascun</lem>
+   <rdg>ciaschuno</rdg></app> gradire</l>
+<l n="49">di <app>
+   <lem>fare</lem>
+   <rdg>far</rdg></app> fermo il suo dire,</l>
+<l n="50">secondo mia parvenza,</l>
+<l n="51">che guarda altrui d’intenza,</l>
+<l n="52">donde <app>
+   <lem>credea</lem>
+   <rdg>creda</rdg></app> mesdire;</l>
+<l n="53">e però m’ è certire</l>
+<l n="54">pensare a <rs ref="Galeotto_pers_1">Galeotto</rs></l>
+<l n="55">di ciò c’a <rs ref="Lancillotto_pers_2">Lancalotto</rs></l>
+<l n="56">promise in sua voglienza</l>
+<l n="57">che no volle mentire</l>
+<l n="58">poi ch’ebe dato il botto</l>
+<l n="59">ad <rs ref="Artu_pers_3">Artù re</rs>, du motto</l>
+<l n="60">il si diede in servenza.</l>
+
+	                           </lg>
+	                           
+	                           <lg n="4">
+	                              
+<l n="61">Donna, nel dire meo</l>
+<l n="62">merze fede pognate,</l>
+<l n="63">e ‘l mio prego intendiate</l>
+<l n="64">che giusto <app>
+   <lem>far</lem>
+   <rdg>fare</rdg></app> lo creo,</l>
+<l n="65">così piacesse a Deo</l>
+<l n="66">di voi dare umiltate,</l>
+<l n="67">pregovi <app>
+   <lem>sol</lem>
+   <rdg>solo</rdg></app> che reo </l>
+<l n="68">non vi sia, né tardiate</l>
+<l n="69">di darmi libertate</l>
+<l n="70">dela gioia <app>
+   <lem>c'aver</lem>
+   <rdg>cavere</rdg></app> deo,</l>
+<l n="71">la <app>
+   <lem>qual</lem>
+   <rdg>quale</rdg></app> m’imprometeo</l>
+<l n="72">la vostra maestate;</l> 
+<l n="73">e voglio che sacciate,</l>
+<l n="74">donna, <app>
+   <lem>che il tardare</lem>
+   <rdg>cheltardare</rdg></app></l>
+<l n="75">m’a messo in <app>
+   <lem>tal</lem>
+   <rdg>tale</rdg></app> penare</l>
+<l n="76">che morte non è reo,</l>
+<l n="77">ché sono in tempestate</l>
+<l n="78">più fera che di mare;</l>
+<l n="79">non posso argomentare</l>
+<l n="80">per lo perire, veo.</l>
+
+</lg>
+
+<lg n="5">
+
+<l n="81">Donna, poi mi convene</l>
+<l n="82"><app>
+   <lem>perir</lem>
+   <rdg>perire</rdg></app>, no voglio sia</l>
+<l n="83"><app>
+   <lem>null'om</lem>
+   <rdg>nullomo</rdg></app> che di me dia:</l>
+<l n="84">«Vilmente morto ène»;</l>
+<l n="85">che no argomento bene</l>
+<l n="86">che scampato saria,</l>
+<l n="87">se tosto non mi vene,</l>
+<l n="88">da voi, conforto mia.</l>
+<l n="89">Non tarderagio dia,</l>
+<l n="90">paleseragio ch’ è ne</l>
+<l n="91"> lo male in che mi tene</l>
+<l n="92">la vostra segnoria!</l>
+<l n="93">siché <app>
+   <lem>s’alcunom</lem>
+   <rdg>salchunomo</rdg></app> fia</l>
+<l n="94">che li doglia del male</l>
+<l n="95">ch’i’ ò d’amore mortale,</l>
+<l n="96">che sacca le mie pene,</l>
+<l n="97">così forsse poria</l>
+<l n="98"><app>
+   <lem>trovar</lem>
+   <rdg>trovare</rdg></app> pietanza in tale</l>
+<l n="99">che medicina quale</l>
+<l n="100"><app>
+   <lem>mestier</lem>
+   <rdg>mestiere</rdg></app> mi fosse avrene.</l>
+   
+   </lg>
+	                           
+	                  </div>
+	               </body>
+	            </text>
+	         
+	       </group>
+		
+		   </text>
+		   </TEI>
